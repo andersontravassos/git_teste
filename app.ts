@@ -6,3 +6,5 @@ episode=4
 console.log(episode)
 episode=episode +1
 console.log("proximo é " + episode)
+let myfavoriteDroid:string
+console.log("Meu Droid é " + myfavoriteDroid)

@@ -5,3 +5,5 @@ episode = 4;
 console.log(episode);
 episode = episode + 1;
 console.log("proximo é " + episode);
+var myfavoriteDroid;
+console.log("Meu Droid é " + myfavoriteDroid);
